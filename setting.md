@@ -2,8 +2,24 @@ In the distant future, humans are one of many species coexisting in a galactic s
 
 The space between the systems unfortunately has become a hotbed for pirate attacks as of late.  While some of the systems would like to commit resources to combat the piracy, others see it as a futile effort with a high cost and little chance of success.  In the end, they choose to do nothing and rely on insurance to cover their losses.  The system governments may have written off those crews, but one entity is unwilling to make such a sacrifice.  The primary AI of Aegis Station, Definia, believes a properly motivated group of individuals may be able to succeed where fleets cannot.
 
-Species
-- Humans
-- Kurath - Humanoid with a wolf like appearance.  They have one less finger and toe on each side than humans do but have sizable claws they can extend.  They are typically taller than humans and have the ability to see into the infrared spectrum.  They are largely martial focused and seldom select for magical traits.
-- Zeldon - Very similar to humans but typically skinnier and fairer skinned.  They are heavily into genetic modification so are often beautiful and magically inclined.
-- Berrot - An insect like race that will share a hive mind when in close proximity.  They range in size from as small as a mouse to as large as a humpback whale.  They are cunning and intelligent.  They typically don’t get along well with other species, but there are outliers who will work with non-Berrot.
+## Species
+* Humans
+* Kurath - Humanoid with a wolf like appearance.  They have one less finger and toe on each side than humans do but have sizable claws they can extend.  They are typically taller than humans and have the ability to see into the infrared spectrum.  They are largely martial focused and seldom select for magical traits.
+* Zeldon - Very similar to humans but typically skinnier and fairer skinned.  They are heavily into genetic modification so are often beautiful and magically inclined.
+* Berrot - An insect like race that will share a hive mind when in close proximity.  They range in size from as small as a mouse to as large as a humpback whale.  They are cunning and intelligent.  They typically don’t get along well with other species, but there are outliers who will work with non-Berrot.
+
+## Locations
+* Kestrel - Light Freighter.  Originally hijacked by pirates, but the main protagonists free it from the pirates and are granted salvage rights to it.  Calypso is Kestrel's onboard AI.
+* Cintini System -The Cintini System is the wealthiest among the Holtax Nebula systems.  They also have an impressive system defense force, but they have little desire to push beyond their borders.  They aren't overly fond of outsiders and prefer to keep interactions with other systems isolated to Aegis Station.
+  - Inhabited Planets - Cintini and Yalneth
+* Losarno System - The Losarno System is one of the newer systems.  They are ambitious and wish to wield more control within the Nebula, but they lack the economic and military clout to sway the other systems.  No one knows how far they are willing to go to achieve their goals, so they are monitored closely by friends and enemies alike.
+  - Inhabited Planets - Losarno
+* Fidune System - The Fidune System prides itself on being the voice of reason among the systems.  They have a vibrant economy and culture that they highly value, and they want to maintain peace among the systems in order to protect that.  However, they are well known for their small but highly trained peace keeping force.
+  - Inhabited Planets - Fidune and Kalat
+* Kalatic System - The Kalatic System is home to only the hardiest of individuals.  The heat and winds on the surface of the one barely habitable planet in the system makes survival on the surface an impossibility.  However, the underground cities that have been crafted with stubbornness and advanced technology are a sight to behold.  The Kalatic System relies on their heavy export of metals, and the technological advancements they made in the crafting of their cities has allowed them to become the premier ship builders in the Nebula.
+  - Inhabited Planets - Kalatic
+* Martus System - The Martus System is the location for the Tribune of the Arcane.  As such, it is home to the finest in magical academies.  To succeed in the Martus System, one must have extremely powerful magical abilities.  Mundane individuals are little more than servants.  They are forbidden from holding government positions, and it is illegal for them to challenge a mage on even the most trivial of matters.
+  - Inhabited Planets - Martus and various inhabited moons around the system
+* Rowat System - The Rowat System is the home of the Unifiers.  Their overarching goal is the complete melding of mind and machine, and they are very suspicious of outsiders.  They are the least committed to the Nebula, but they fear a war with the other systems if they try to challenge the status quo too much.  It is unusual to see Unifiers away from their home system, but their propensity for extreme body modification always draws lots of attention.  It is possible that they have been facing the brunt of an ongoing war with an invasive alien species, but information out of the Rowat System is difficult to come by.
+  - Inhabited Planets - Rowat
+ 
