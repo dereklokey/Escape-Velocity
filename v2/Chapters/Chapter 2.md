@@ -4,13 +4,13 @@ Selene leaned against a workbench, her expression a mix of weariness and determi
 
 Taryn's brow furrowed, her curiosity piqued. She motioned for Selene to continue, her eyes locked on her as she listened intently.
 
-Selene took a deep breath, the memories of that fateful encounter etched into her mind. "I found myself in an abandoned building, thinking it was the perfect place to scavenge. Little did I know, it had become a meeting spot for a local gang and a representative from one of the powerful corporations that run this city."
+Selene took a deep breath, the memories of that fateful encounter etched into her mind. "I stumbled upon this old, rundown building, thinking it was a goldmine for scavenging. Boy, was I wrong! Turns out, it had become the secret hangout for a local gang and some fancy corporate bigshot. Like, what are the odds?"
 
-She glanced around the workshop, the weight of the revelation sinking in. "I overheard their conversation in secret, realizing that they were planning something sinister. I couldn't make out all the details, but it involved exploiting the vulnerable for profit and gaining control over valuable resources."
+She glanced around the workshop, the weight of the revelation sinking in. "I totally eavesdropped on their conversation in stealth mode and, like, the things I heard were straight-up wicked. They were scheming something super shady, and even though I couldn't catch all the deets, it was all about taking advantage of the vulnerable for their greedy gains and getting their paws on valuable resources. Not cool, man. Not cool."
 
 Silence settled in the workshop, broken only by the distant hum of machinery. Taryn's gaze remained fixed on Selene, her understanding growing as she pieced together the gravity of the situation.
 
-"But they sensed my presence," Selene continued, her voice quivering with a mix of fear and determination. "I tried to slip away unnoticed, but they spotted me. Panic surged through me as I sprinted through the city, desperately trying to lose them."
+"But they sensed my presence," Selene continued, her voice quivering with a mix of fear and determination. "Panic hit me like a lightning bolt as I bolted through the city, running like my life depended on it, just trying to shake them off my tail."
 
 The workshop seemed to shrink around them as Selene recounted her harrowing escape. Taryn's jaw tightened, a blend of empathy and frustration coursing through her. She could envision the adrenaline-fueled chase through the labyrinthine streets, Selene navigating the shadows while being pursued by a relentless foe.
 
