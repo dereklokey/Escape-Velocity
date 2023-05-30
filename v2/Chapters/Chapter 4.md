@@ -18,7 +18,7 @@ Taryn couldn't help but smirk. "So, we're going to be the thorns in their side? 
 
 Adrian winked. "Exactly. We'll be their worst nightmare, the unrelenting itch they can't scratch. With a dash of irreverence and a touch of audacity, we'll rewrite the rules and expose their greed."
 
-"Hey, Adrian," Selene began, a touch of awe in her voice. "You know, with all this secrecy, the high-tech gadgets, and your irreverent style... Are you like that old Earth mythology figure? You know, the one they called Batman?"
+"Hey, Adrian," Selene began, a touch of awe in her voice. "You know, with all this secrecy, the high-tech gadgets, and your charm... Are you like that old Earth mythology figure? You know, the one they called Batman?"
 
 Taryn couldn't help but stifle a laugh, amused by Selene's wide-eyed fascination. She looked at Adrian, waiting for his response.
 
@@ -30,11 +30,11 @@ Adrian chuckled, shaking his head. "Well, I might not have a utility belt or a s
 
 Selene practically bounced with anticipation. "Count me in! I've always wanted to learn some awesome moves. Maybe I can even incorporate them into my mech suit design!"
 
-Taryn watched their playful exchange, her lips curving into a smile. There was a youthful energy in Selene's enthusiasm that was infectious, and Adrian's irreverent charm seemed to resonate with her.
+Taryn watched their playful exchange, her lips curving into a smile. There was a youthful energy in Selene's enthusiasm that was infectious, and Adrian's playful attitude seemed to resonate with her.
 
-"Well, Selene, get ready for a crash course in unconventional combat," Adrian said, his voice filled with playful determination. 
+"Well, Selene, get ready for a crash course in unconventional combat," Adrian said, his voice filled with mock seriousness. 
 
-Taryn watched the playful banter between Selene and Adrian, a small smile lingering on her face. "Adrian, I appreciate your irreverence and your ability to bring a sense of lightness to what you have been doing here," Taryn began, her voice measured. "But I also want to understand why you choose to challenge the very system you were born into?"
+Taryn watched the banter between Selene and Adrian, a small smile lingering on her face. "Adrian, I appreciate your irreverence and your ability to bring a sense of lightness to what you have been doing here," Taryn began, her voice measured. "But I also want to understand why you choose to challenge the very system you were born into?"
 
 Adrian's expression shifted, his eyes growing distant as he reflected on the question. After a brief pause, he spoke, his voice tinged with a mix of nostalgia and determination.
 
@@ -62,23 +62,25 @@ Selene huffed, crossing her arms even tighter. "Well, whether you call it Tech o
 
 Adrian's expression softened, understanding Selene's perspective. "You're right, Selene. The labels we give it don't really matter, but to be clear, the label is Tech."
 
-"However, I do need to confess. While my Tech abilities might seem impressive, they do have their limits," Adrian confessed, his eyes meeting Taryn and Selene's with sincerity. "I do have some skill with shielding, a knack for protecting myself and others when it matters most. And I can empower my dueling blade to be a formidable weapon in combat. But beyond that, my Tech abilities are somewhat limited."
+"However, I do need to clarify. While my Tech abilities might seem impressive, they do have their limits," Adrian confessed, his eyes meeting Taryn and Selene's with sincerity. "I do have some skill with shielding, a knack for protecting myself and others when it matters most. And I can empower my dueling blade to be a formidable weapon in combat. But beyond that, my Tech abilities are somewhat limited."
 
 Taryn nodded, appreciating Adrian's candid admission. "It's important to understand our strengths and limitations. Even with limited abilities, your skills can still make a significant difference."
 
-"Alright, Taryn, it's your turn now. We've learned about Selene's engineering prowess and my limited Tech abilities. What's your story? What can you bring to the table?"
+"Alright, Taryn, it's your turn now. We've learned about Selene's engineering prowess and my Tech abilities. What's your story? What can you bring to the table?"
 
 Taryn hesitated, her gaze flickering for a moment before meeting Adrian's eyes with a mix of reluctance and determination. "I have a past in the military as I have previously mentioned," she admitted, her voice carrying a weight of experience. "I was part of the special forces, trained in combat and skilled with a range of weapons. They called me 'Ghost' in my unit."
 
 Selene's eyes widened, a mix of surprise and curiosity crossing her face. "Ghost? That's an intriguing nickname. I can only imagine what kind of skills earned you such a title."
 
-Taryn's lips tightened, her eyes reflecting the memories that lingered within her. "I'm deadly with anything that has a trigger," she confessed, her voice tinged with a mix of confidence and reservation. "From precision marksmanship to close-quarter combat, I've been trained to adapt and eliminate threats efficiently."
+Taryn's lips tightened, her eyes reflecting the memories that lingered within her. "I'm deadly with anything that has a trigger," she confessed, her voice tinged with confidence. "From precision marksmanship to close-quarter combat, I've been trained to adapt and eliminate threats efficiently."
 
 Adrian leaned in, his gaze locked with Taryn's. "So, you were a force to be reckoned with in the military, an operative with lethal skills. What made you leave? Why are you on this backwater of a planet?"
 
 Taryn's expression changed, a veil of vulnerability momentarily shadowing her features. "I saw too much, Adrian."
 
 "Wait a minute, Taryn. Ghost... Operation Thunderfall... that was you?" Adrian exclaimed, his tone a mixture of surprise and awe.
+
+"But... how do you know about Operation Thunderfall?" Taryn asked, her tone tinged with concern. "It was classified, meant to be kept under wraps for security reasons. How did that information reach you?"
 
 Adrian's smirk widened, a hint of mischief shining in his eyes. He leaned back in his seat, his voice carrying a note of confidence. "Classified is for people who don't have my resources, Taryn. I have my ways of obtaining information that others can't access."
 
@@ -100,7 +102,7 @@ As the conversation drew to a close, Adrian rose from his seat, his eyes focused
 
 Taryn nodded in acknowledgment, a resolute expression on her face. "Thank you, Adrian. I'll be ready."
 
-Adrian then turned his attention to Selene, his tone brimming with practicality. "Selene, the fabricator is at your disposal. It is state-of-the-art and can create anything you need for your mech. I can't wait to see what that thing can really do."
+Adrian then turned his attention to Selene, his tone brimming with excitement. "Selene, the fabricator is at your disposal. It is state-of-the-art and can create anything you need for your mech. I can't wait to see what that thing can really do."
 
 Selene's eyes brightened with enthusiasm, her mind already focused on the engineering challenges ahead. "Got it, Adrian! I'll make sure it's in top shape, ready to kick some serious butt!"
 
