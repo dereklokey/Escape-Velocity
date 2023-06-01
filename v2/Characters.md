@@ -85,3 +85,17 @@ Arthur is a consummate professional, always maintaining a calm and composed deme
 While Arthur is fiercely loyal to Darkstone Industries and its mission, there is an underlying sense of duty and honor that drives him. He believes in upholding justice and protecting innocent lives, striving to strike a balance between fulfilling his responsibilities and maintaining his personal principles.
 
 Though not a central figure in the overarching narrative, Arthur's presence looms large in the security apparatus of Darkstone Industries. His unwavering commitment to safeguarding the corporation's interests adds an element of tension and challenge for our protagonists as they navigate their way through the shadows of corporate intrigue.
+
+* Describe an extremely skilled fixer that Richard Blackwood occasionally uses to take care of things outside of Darkstone Industries
+
+Meet Eliza "Shadowhand" Donovan, a ruthless and cunning fixer who serves as Richard Blackwood's trusted enforcer and problem solver beyond the reach of Darkstone Industries. Eliza is known for her uncompromising approach and willingness to do whatever it takes to accomplish her objectives.
+
+With a background in covert operations and a dark history, Eliza operates in the shadows, eliminating threats, disposing of evidence, and ensuring Richard's interests are protected. Her reputation as a relentless operative precedes her, as she leaves no room for mercy or second chances when it comes to dealing with those who cross her path.
+
+Eliza's skills in combat and hand-to-hand combat are unmatched, making her a formidable adversary. Her efficiency in dispatching opponents and her ability to think on her feet in high-pressure situations make her a deadly force to be reckoned with. She is a master of manipulation and psychological warfare, using fear and intimidation to achieve her goals.
+
+Known for her cold demeanor and calculated decision-making, Eliza operates with a ruthless efficiency that leaves no room for sentimentality. She is a master strategist, meticulously planning her every move and leaving no loose ends behind. Her unwavering loyalty to Richard is matched only by her loyalty to the mission at hand.
+
+While Eliza's true motives and personal history remain shrouded in secrecy, her reputation as a ruthless fixer and her unwavering commitment to achieving Richard's objectives make her a feared and respected presence in the underworld. Her actions are marked by a calculated brutality that sends a clear message to anyone who dares to oppose Richard Blackwood.
+
+In the world of shadows and intrigue, Eliza "Shadowhand" Donovan stands as a force to be reckoned with, a ruthless enforcer who will stop at nothing to ensure Richard's dominance and protect his interests from those who dare to challenge him.
