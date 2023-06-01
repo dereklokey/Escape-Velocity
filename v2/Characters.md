@@ -63,3 +63,14 @@ Personality: Maya's youthful spirit and determination remain intact despite the 
 Motivation: Maya's primary motivation is to bring down The Black Fangs and Darkstone Industries, ensuring that their nefarious activities are exposed to the public eye. She is determined to dismantle their criminal operations and prevent further harm to the people of Cerulia. Maya seeks to use her newfound abilities as a force for justice and redemption, to protect others from suffering the same fate she experienced.
 
 Role in the Story: As a key member of the group, Maya's unique abilities and knowledge of the gang's operations are invaluable. She becomes an essential asset in the mission to expose the truth and seek justice. Maya's youth and fresh perspective provide a unique vantage point, challenging the established notions of power and corruption. Her journey will test her resilience, as she grapples with her own transformation and navigates the treacherous path towards justice and redemption.
+
+* Describe the character of Adrian's father
+
+Adrian's father, Richard Blackwood, is a formidable figure with a commanding presence. He is a shrewd and ambitious businessman who built the empire of Darkstone Industries from scratch. With a steely gaze and an air of authority, Richard possesses a calculating mind that is always several steps ahead of his adversaries. He is known for his charisma and persuasive skills, effortlessly navigating the complex web of corporate politics and alliances.
+
+Despite his immense wealth and power, Richard is not afraid to get his hands dirty when it comes to furthering his interests. He is willing to bend or break the rules to achieve his goals, making him a formidable opponent to anyone who stands in his way. Richard is a master manipulator, adept at using people as pawns on his chessboard of corporate intrigue.
+
+Richard has a reputation for being ruthless and unyielding in his pursuit of success. He expects nothing short of perfection from those who work under him and is quick to cut ties with anyone who fails to meet his high standards. He is a stern and demanding figure, often imposing intense pressure on his subordinates to deliver results.
+
+Despite his flaws and questionable ethics, Richard Blackwood is a complex character who genuinely believes that his vision for Darkstone Industries is the path to progress and prosperity. He sees himself as a visionary, shaping the future of Cerulia and beyond, and is willing to sacrifice anything, including his family's legacy, to ensure the success of his corporation.
+
