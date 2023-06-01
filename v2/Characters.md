@@ -74,3 +74,14 @@ Richard has a reputation for being ruthless and unyielding in his pursuit of suc
 
 Despite his flaws and questionable ethics, Richard Blackwood is a complex character who genuinely believes that his vision for Darkstone Industries is the path to progress and prosperity. He sees himself as a visionary, shaping the future of Cerulia and beyond, and is willing to sacrifice anything, including his family's legacy, to ensure the success of his corporation.
 
+* Describe a minor character who is the head of security at Darkstone Industries
+
+Arthur Langley, the head of security at Darkstone Industries, is a seasoned and disciplined individual who commands respect through his unwavering dedication and unwavering loyalty to the corporation. With a stern and imposing presence, Arthur is known for his no-nonsense attitude and meticulous attention to detail.
+
+Having spent years in law enforcement and military service before joining Darkstone Industries, Arthur possesses a wealth of experience and expertise in security operations. He is highly skilled in threat assessment, risk management, and tactical planning, making him an invaluable asset in protecting the company's assets and personnel.
+
+Arthur is a consummate professional, always maintaining a calm and composed demeanor even in the face of high-pressure situations. He demands excellence from his security team, setting high standards and enforcing strict protocols to ensure the utmost safety and security within the corporation.
+
+While Arthur is fiercely loyal to Darkstone Industries and its mission, there is an underlying sense of duty and honor that drives him. He believes in upholding justice and protecting innocent lives, striving to strike a balance between fulfilling his responsibilities and maintaining his personal principles.
+
+Though not a central figure in the overarching narrative, Arthur's presence looms large in the security apparatus of Darkstone Industries. His unwavering commitment to safeguarding the corporation's interests adds an element of tension and challenge for our protagonists as they navigate their way through the shadows of corporate intrigue.
