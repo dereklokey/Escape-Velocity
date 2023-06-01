@@ -70,48 +70,48 @@ Selene, still locked in combat, glanced towards the ship. Her movements became e
 
 Breathing heavily, the trio and one unexpected addition regrouped within the ship's confines, their hearts pounding with a mix of exhilaration and relief. The vessel hummed with power as it lifted off, leaving behind the chaos and danger they had faced.
 
-As the group reconvenes, Taryn's compassionate instincts guide her actions. She approaches the young woman, offering a comforting presence. Taryn speaks softly, her voice conveying reassurance and understanding.
+As the group reconvened, Taryn's compassionate instincts guided her actions. She approached the young woman, offering a comforting presence. Taryn spoke softly, her voice conveying reassurance and understanding.
 
-"Hey there," Taryn says gently, crouching down beside her. "I can tell you've been through a lot. Let's find you a more comfortable spot, okay? Somewhere you can gather your thoughts."
+"Hey there," Taryn said gently, crouching down beside her. "I can tell you've been through a lot. Let's find you a more comfortable spot, okay? Somewhere you can gather your thoughts."
 
-The young woman looks up at Taryn, her eyes filled with a mix of fear and vulnerability. She nods hesitantly, allowing Taryn to help her to her feet. Taryn leads her to a nearby seat, making sure she is settled and secure. Although they haven't exchanged names yet, Taryn's actions speak volumes about her empathy and genuine care.
+The young woman looked up at Taryn, her eyes filled with a mix of fear and vulnerability. She nodded hesitantly, allowing Taryn to help her to her feet. Taryn led her to a nearby seat, making sure she is settled and secure. Although they haven't exchanged names yet, Taryn's actions speak volumes about her empathy and genuine care.
 
-Once the young woman is settled, Taryn offers her a warm smile before rejoining Adrian and Selene a short distance away. They exchange glances, their faces reflecting a mix of concern and curiosity. It's clear that they are all grappling with the sudden appearance of the young woman and the mysteries surrounding her.
+Once the young woman is settled, Taryn offered her a warm smile before rejoining Adrian and Selene a short distance away. They exchanged glances, their faces reflecting a mix of concern and curiosity. It's clear that they are all grappling with the sudden appearance of the young woman and the mysteries surrounding her.
 
 Taryn breaks the silence, her voice laced with a mixture of urgency and caution. "What do we do now? We can't just leave her like that. She needs help, and we need answers."
 
-Adrian nods, his brow furrowing with a hint of unease. "You're right, Taryn. We can't ignore her, especially considering what she's been through. But we have to proceed cautiously. We don't know her name or the full extent of her situation."
+Adrian nodded, his brow furrowing with a hint of unease. "You're right, Taryn. We can't ignore her, especially considering what she's been through. But we have to proceed cautiously. We don't know her name or the full extent of her situation."
 
-Selene chimes in, her voice tinged with compassion. "She looks scared and lost. We can't abandon her now."
+Selene chimed in, her voice tinged with compassion. "She looks scared and lost. We can't abandon her now."
 
-Taryn glances back at the young woman, still huddled by herself, and a pang of empathy fills her heart. "We need to find a way to connect with her, to let her know she's safe with us. But we also need to respect her boundaries and give her the space she needs."
+Taryn glanced back at the young woman, still huddled by herself, and a pang of empathy filled her heart. "We need to find a way to connect with her, to let her know she's safe with us. But we also need to respect her boundaries and give her the space she needs."
 
-Adrian nods again, his gaze fixed on the young woman. "Agreed. Building trust will be crucial, and that will take time. We can't rush this. She's been through enough already."
+Adrian nodded again, his gaze fixed on the young woman. "Agreed. Building trust will be crucial, and that will take time. We can't rush this. She's been through enough already."
 
-Taryn turns to Adrian, her expression filled with determination. "Adrian, it's about an hour back to our base from here. Maybe you could go ahead and start preparing some food and beverages for all of us. It might help create a more relaxed atmosphere when we talk to... um, her," Taryn suggests, motioning towards the young woman.
+Taryn turned to Adrian, her expression filled with determination. "Adrian, it's about an hour back to our base from here. Maybe you could go ahead and start preparing some food and beverages for all of us. It might help create a more relaxed atmosphere when we talk to... um, her," Taryn suggested, motioning towards the young woman.
 
-Adrian raises an eyebrow, a mischievous glint in his eyes. "Sure, I can whip up something delicious to ease the tension. Just don't expect anything gourmet."
+Adrian raised an eyebrow, a mischievous glint in his eyes. "Sure, I can whip up something delicious to ease the tension. Just don't expect anything gourmet."
 
-Taryn gives him a playful shove. "I'm sure whatever you come up with will be edible at the very least."
+Taryn gave him a playful shove. "I'm sure whatever you come up with will be edible at the very least."
 
-As Adrian heads off to attend to the meal, Taryn turns to Selene, her tone serious. "Selene, I think it would be a good idea if we have our conversation with her outside of your mech. It might help her feel less overwhelmed and show that we're here as individuals, not just as a group with powerful technology."
+As Adrian headed off to attend to the meal, Taryn turns to Selene, her tone serious. "Selene, I think it would be a good idea if we have our conversation with her outside of your mech. It might help her feel less overwhelmed and show that we're here as individuals, not just as a group with powerful technology."
 
-Selene nods in agreement, her eyes shining with understanding. "You're right, Taryn. I'll exit Aurora and join you. We need to make her feel comfortable and not intimidate her further."
+Selene nodded in agreement, her eyes shining with understanding. "You're right, Taryn. I'll exit Aurora and join you. We need to make her feel comfortable and not intimidate her further."
 
-Together, Taryn and Selene approach the young woman, their expressions gentle and open. As they near, they notice her guarded posture and watchful eyes. Taryn speaks softly, her voice carrying reassurance. "Hey there, we're here to help. We don't mean you any harm."
+Together, Taryn and Selene approached the young woman, their expressions gentle and open. As they near, they noticed her guarded posture and watchful eyes. Taryn spoke softly, her voice carrying reassurance. "Hey there, we're here to help. We don't mean you any harm."
 
-Selene steps forward, her mech fading away to reveal her true self. "Yeah, we've been through a lot ourselves, and we understand what it's like to feel trapped and scared. You're not alone."
+Selene stepped forward, her mech opening to reveal her true self. "Yeah, we've been through a lot ourselves, and we understand what it's like to feel trapped and scared. You're not alone."
 
-The young woman gazes at them, her suspicion giving way to a flicker of curiosity. "Who are you? Why are you helping me?"
+The young woman gazed at them, her suspicion giving way to a flicker of curiosity. "Who are you? Why are you helping me?"
 
-Taryn takes a deep breath, her eyes filled with empathy as she extends a hand towards the young woman. "I'm Taryn," she introduces herself softly. "I have a military background, and I know what it's like to face fear and uncertainty. But I'm here to help you."
+Taryn took a deep breath, her eyes filled with empathy as she extended a hand towards the young woman. "I'm Taryn," she introduced herself softly. "I have a military background, and I know what it's like to face fear and uncertainty. But I'm here to help you."
 
-The young woman hesitates for a moment before gingerly accepting Taryn's handshake. Her gaze flickers between Taryn and Selene, a mix of curiosity and caution in her eyes.
+The young woman hesitated for a moment before gingerly accepting Taryn's handshake. Her gaze flickered between Taryn and Selene, a mix of curiosity and caution in her eyes.
 
-Selene steps forward, a warm smile on her face. "And I'm Selene. I may be young, but I have a knack for engineering and building things, like my mech, Aurora. It's a pleasure to meet you."
+Selene stepped forward, a warm smile on her face. "And I'm Selene. I may be young, but I have a knack for engineering and building things, like my mech, Aurora. It's a pleasure to meet you."
 
-As the introductions settle, the young woman takes a deep breath. "I'm Maya," she says, her voice tinged with doubt. "But I have to be honest with you. I recognized Adrian Blackwood, and it concerns me."
+As the introductions settle, the young woman took a deep breath. "I'm Maya," she said, her voice tinged with doubt. "But I have to be honest with you. I recognized Adrian Blackwood, and it concerns me."
 
-Taryn and Selene exchange puzzled glances, not fully grasping the significance of the name. "What's the matter with Adrian?" Taryn asks, her brow furrowed.
+Taryn and Selene exchanged puzzled glances, not fully grasping the significance of the name. "What's the matter with Adrian?" Taryn asked, her brow furrowed.
 
-Maya's expression turns grave as she looks directly at Taryn. "The Blackwoods... They are the founders of Darkstone Industries."
+Maya's expression turned grave as she looked directly at Taryn. "The Blackwoods... They are the founders of Darkstone Industries."
