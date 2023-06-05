@@ -99,3 +99,17 @@ Known for her cold demeanor and calculated decision-making, Eliza operates with 
 While Eliza's true motives and personal history remain shrouded in secrecy, her reputation as a ruthless fixer and her unwavering commitment to achieving Richard's objectives make her a feared and respected presence in the underworld. Her actions are marked by a calculated brutality that sends a clear message to anyone who dares to oppose Richard Blackwood.
 
 In the world of shadows and intrigue, Eliza "Shadowhand" Donovan stands as a force to be reckoned with, a ruthless enforcer who will stop at nothing to ensure Richard's dominance and protect his interests from those who dare to challenge him.
+
+* Describe a character for me.  He is a scientist with no moral compass.  He is only interested in pushing the bounds of what he can do.  He isn't evil exactly, but people mean less to him than progress.  He works for Darkstone because they value his brilliance, but he isn't loyal to them.  He doesn't care about their plans for domination.  He considers things like that beneath him.
+
+Dr. Victor Barnes was a scientist of unparalleled brilliance, driven solely by the pursuit of knowledge and pushing the boundaries of what was deemed possible. With a sharp intellect and a relentless curiosity, he thrived in the world of scientific exploration. However, his moral compass had long been cast aside in his single-minded quest for progress.
+
+With a tall and lean frame, Dr. Barnes possessed a commanding presence that demanded attention. His piercing eyes, hidden behind a pair of wire-rimmed glasses, held an intensity that betrayed his unwavering dedication to his work. His unkempt hair, streaked with gray, spoke volumes of the countless hours he spent consumed by his research.
+
+Dr. Barnes had a reputation for being indifferent to the ethical implications of his experiments. People were mere subjects, instruments for him to further his understanding and push the boundaries of science. He cared little for the consequences of his actions, viewing them as insignificant compared to the potential advancements he could achieve.
+
+His association with Darkstone was a pragmatic alliance rather than one borne out of loyalty. They recognized his brilliance and provided him with the resources and freedom to pursue his research without constraints. To Dr. Barnes, Darkstone's plans for domination and control were beneath him. He had no interest in their grand schemes; his focus remained solely on his scientific endeavors.
+
+In his laboratory, Dr. Barnes was in his element, surrounded by complex apparatus and cutting-edge technology. It was there that he pushed the limits of scientific knowledge, unburdened by any sense of morality or ethical considerations. His experiments were driven by a relentless pursuit of progress, often at the expense of those who fell within his sphere of influence.
+
+Dr. Victor Barnes stood as a formidable figure in the world of scientific brilliance, a man whose brilliance and disregard for conventional morality made him both an asset and a potential threat. His allegiance to the pursuit of knowledge and progress superseded any loyalty or empathy towards his fellow human beings. To him, the world was a canvas for his experiments, and the concept of right or wrong held little sway in his relentless quest for scientific discovery.
