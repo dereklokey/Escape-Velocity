@@ -89,9 +89,3 @@ Despite the animosity between them, Taryn couldn't deny that Dr. Barnes' knowled
 As the night wore on, their collaboration became a well-orchestrated dance of intellect and strategy. They fine-tuned their approach, identifying weaknesses to exploit and devising contingency plans for unexpected scenarios.
 
 Taryn's respect for Dr. Barnes' brilliance grew, albeit begrudgingly. It was a delicate balance of cooperation and vigilance, knowing that their alliance was tenuous at best. Despite one seeking justice and the other revenge, they shared a common goal: to bring down Darkstone.
-
-Just as Taryn's confidence began to rise, a sudden darkness enveloped the room, shrouding them in an eerie stillness. The soft glow of their monitors faded into blackness, and the hum of electricity was replaced by an unsettling silence. Taryn's heart skipped a beat as the realization struck her—the power had been cut.
-
-A surge of apprehension coursed through her veins, and her senses heightened in the darkness. Dr. Barnes, too, sensed the sudden shift in the room's atmosphere, his arrogant demeanor faltering for a moment. Taryn's mind raced, considering the possibilities of what this disruption could mean.
-
-Her training kicked in, and Taryn swiftly reached for her sidearm, gripping it tightly in her hand. Shadows danced around her, and her ears strained to catch any unusual sound that might pierce the silence. She glanced at Dr. Barnes, his face a mask of uncertainty. The stakes had just been raised, and the game had taken an unexpected turn.
