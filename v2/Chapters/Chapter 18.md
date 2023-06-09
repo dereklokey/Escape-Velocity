@@ -16,14 +16,13 @@ As Adrian continued his steady recovery, Maya's own healing abilities seemed to 
 
 The group marveled at Maya's rapid recovery, unable to explain the extent of her newfound strength. It was as if her body had been remade, fortified by an unseen force. Her enhanced speed and agility were remarkable, allowing her to move with a fluidity that surpassed even her pre-experiment capabilities. Maya's physical prowess had become a force to be reckoned with, a testament to her resilience and determination.
 
-
 Despite the curiosity and questions that burned within their minds, Taryn remained resolute in her decision to postpone any discussions about her history with Eliza until the entire team was fully recovered. It was a matter of trust and unity, understanding that they needed to be at their best both physically and mentally to confront the dark forces that loomed over them.
 
 Taryn knew that delving into her past with Eliza could stir up emotions and distractions that could jeopardize their mission. The wounds inflicted by their encounter were still fresh, and she wanted to ensure that everyone had the strength and clarity of mind to face the challenges that lay ahead.
 
 Instead, Taryn focused on fostering an environment of support and camaraderie within the team. She encouraged open communication, shared training sessions, and moments of relaxation to help them recharge. It was important to build a solid foundation of trust and unity, a united front against the threats that awaited them.
 
-As days turned into nights and nights into days, Taryn's steadfastness in postponing discussions about Eliza only strengthened their bond. The team grew closer, sharing stories, laughter, and even moments of vulnerability. The wounds of the past were not forgotten, but they were set aside for the time being, allowing the healing process to continue undisturbed.
+Taryn's steadfastness in postponing discussions about Eliza only strengthened their bond. The team grew closer, sharing stories, laughter, and even moments of vulnerability. The wounds of the past were not forgotten, but they were set aside for the time being, allowing the healing process to continue undisturbed.
 
 Taryn's leadership, marked by her unwavering commitment to the team's well-being, earned the respect and admiration of her comrades. They trusted in her judgment and knew that she had their best interests at heart. They recognized that when the time was right, Taryn would guide them through the difficult conversations that awaited, ensuring that they faced their shared past with strength and unity.
 
@@ -51,9 +50,15 @@ Adrian leaned forward, his voice filled with determination. "We can't let fear p
 
 Selene nodded in agreement, her eyes blazing with resolve. "We got this, guys! Trust me, we'll trust our gut feelings, our training, and most importantly, each other. Together, we're gonna kick some serious butt, maneuver through all the sneaky traps and lies, and tear down everything Darkstone's got going on. Eliza can try all she wants, but she ain't gonna stop us. Our mission is rock solid!"
 
-Taryn met their gazes, her voice steady and resolute. "We can't let doubt consume us. We'll be vigilant, meticulous, and use our own resources whenever possible. We'll outmaneuver Eliza, expose Darkstone, and bring her to justice."
+Taryn met their gazes, her voice steady and resolute. "We can't let doubt consume us. We'll be vigilant, meticulous, and use our own resources whenever possible. We'll outmaneuver Eliza, expose Darkstone, and bring them all to justice. I also need to contact my old squad," she stated, her voice steady. "They need to know that Eliza Donovan is still alive and active."
 
-Taryn's mind raced as she mulled over Maya's startling revelation. The memory of the scientist they had glimpsed during their reconnaissance mission had ignited a flicker of recognition in Maya. It was an unexpected lead, and Taryn knew they had to pursue it further.
+Adrian, Maya, and Selene exchanged glances, understanding the gravity of the situation. Adrian nodded, already calculating the best way to reach out discreetly. "I'll establish a secure line of communication," he offered, his fingers dancing across the holographic interface.
+
+Maya's expression turned serious, her instincts honed by years of training. "We need to be careful," she cautioned, her voice filled with caution. "We don't know who we can trust. Darkstone has tentacles that reach far and wide."
+
+Taryn nodded in agreement, her gaze unwavering. "We'll have to be cautious and choose our allies wisely," she affirmed, her determination resolute. "But we can trust my squad."
+
+Taryn paused as she remembered something. The memory of the scientist they had glimpsed during their reconnaissance mission had ignited a flicker of recognition in Maya. It was an unexpected lead, and Taryn knew they had to pursue it further.
 
 Turning her attention to Maya, Taryn sought confirmation of the young woman's certainty.
 
